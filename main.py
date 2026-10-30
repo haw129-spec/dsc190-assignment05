@@ -1,5 +1,9 @@
+import math
+
+
 def main():
-    print("Hello from dsc190-assignment05!")
+    unused = 3
+    print(missing_name)
 
 
 if __name__ == "__main__":
